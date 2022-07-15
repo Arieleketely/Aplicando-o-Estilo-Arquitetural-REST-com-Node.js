@@ -1,0 +1,5 @@
+npm init
+completar o que pedir
+touch.exe index.js
+npm run start
+ 
